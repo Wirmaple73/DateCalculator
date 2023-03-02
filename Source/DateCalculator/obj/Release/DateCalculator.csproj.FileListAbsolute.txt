@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\bin\Release\DateCalculator.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\bin\Release\DateCalculator.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\bin\Release\DateCalculator.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\DateCalculator.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\App.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\DateCalculator_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\DateCalculator.g.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\DateCalculator.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\DateCalculator.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\DateCalculator.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\DateCalculator\DateCalculator\obj\Release\DateCalculator.pdb
+F:\!MiscFiles\CSharp\Programs\DateCalculator\DateCalculator\DateCalculator\bin\Release\DateCalculator.exe.config
+F:\!MiscFiles\CSharp\Programs\DateCalculator\DateCalculator\DateCalculator\obj\Release\DateCalculator.exe
+F:\!MiscFiles\CSharp\Programs\DateCalculator\DateCalculator\DateCalculator\obj\Release\DateCalculator.pdb
