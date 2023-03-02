@@ -4,13 +4,13 @@
 
 * تبدیل‌گر تاریخ (تبدیل از و به تقویم‌های شمسی، قمری و میلادی)
 
-![bandicam 2023-03-02 14-20-44-843](https://user-images.githubusercontent.com/71328992/222408460-16589eea-f149-49c8-a167-f60d4669012c.png)
+![bandicam 2023-03-02 14-28-42-380](https://user-images.githubusercontent.com/71328992/222410398-20062ff8-437f-49f7-b27b-024b787cb16a.png)
 * محاسبه‌گر اختلاف تاریخ‌ها (برای حساب کردن اختلاف بین دو تاریخ)
 
-![bandicam 2023-03-02 14-20-47-201](https://user-images.githubusercontent.com/71328992/222408555-651aafd3-5411-4ce8-8d9f-e40d1b3eaadc.png)
+![bandicam 2023-03-02 14-29-38-773](https://user-images.githubusercontent.com/71328992/222410433-94e128bd-6fd1-4776-9001-59e553b9f17e.png)
 * جمع/تفریق کننده تاریخ (برای افزایش یا کاهش از یک تاریخ)
 
-![bandicam 2023-03-02 14-21-39-812](https://user-images.githubusercontent.com/71328992/222408576-7658a2b2-c1e0-46cb-8837-b7528dd4037e.png)
+![bandicam 2023-03-02 14-30-43-188](https://user-images.githubusercontent.com/71328992/222410457-bc096c1c-4ea3-4d4c-8598-737400870481.png)
 
 
 نکته: تبدیل از/به تقویم هجری قمری ممکن است %100 دقیق نباشد
